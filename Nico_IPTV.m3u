@@ -1,72 +1,117 @@
-#EXTINF:-1 :-1 ,Nico IPTV
-#EXTINF:-1 ,------- CANALES -------
+#EXTM3U
+#EXTINF:-1 tvg-logo=""  group-title="",Nico IPTV
 https://nicoiptv.com/cl
-#EXTINF:-1 ,------- Infantiles --------
-#EXTINF:-1, NTV (Chile) | Infantil
+
+#EXTINF:-1 tvg-logo=""  group-title="",------- Infantiles --------
 http://200.113.4.75:7210/play/a00o/index.m3u8
-#EXTINF:-1, Discovery Kids | CL
+
+#EXTINF:-1 tvg-logo=""  group-title="",Discovery Kids | CL
 http://201.230.137.204:8000/play/a0f3/index.m3u8
-#EXTINF:-1, Nickelodeon | LATAM
+
+#EXTINF:-1 tvg-logo=""  group-title="",Nickelodeon | LATAM
 http://201.230.137.204:8000/play/a0i8/index.m3u8
-#EXTINF:-1, Nick Jr. | LATAM
+
+#EXTINF:-1 tvg-logo=""  group-title="",Nick Jr. | LATAM
 http://201.230.137.204:8000/play/a0fz/index.m3u8
-#EXTINF:-1, Baby first | LATAM
+
+#EXTINF:-1 tvg-logo=""  group-title="",Baby Fiirst | LATAM
 http://201.230.137.204:8000/play/a0f1/index.m3u8
-#EXTINF:-1, Canal Infantil | ARG
+
+#EXTINF:-1 tvg-logo=""  group-title="",Canal Infantil | ARG
 http://181.78.7.90:12500/play/CANALINFANTIL/index.m3u8
-#EXTINF:-1, Disney Junior 
-http://186.148.195.206:8000/play/a061/index.m3u8
-#EXTINF:-1 ,Disney Channel | ARG/CL
-http://138.36.253.13:8008/play/a005/index.m3u8
-#EXTINF:-1 ,Tooncast
+
+#EXTINF:-1 tvg-logo=""  group-title="",Disney Junior
+http://179.51.169.254:7000/play/a018
+
+#EXTINF:-1 tvg-logo=""  group-title="",Disney Channel | ARG/CL
+http://152.230.229.67:9990/play/a0jg/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="",Kidoo | Infantil
+http://38.252.215.195:8889/play/a00l/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="",Bitme | Infantil
+http://181.65.207.62:8000/play/a00g
+
+#EXTINF:-1 tvg-logo=""  group-title="",Tooncast
 http://45.5.117.99:8000/play/a03k/index.m3u8
-#EXTINF:-1 , Cartoonito | Infantil
-http://45.195.15.172:8000/play/a0cp/index.m3u8
-#EXTINF:-1 , Cartoon Network | Infantil
+
+#EXTINF:-1 tvg-logo=""  group-title="",Cartoonito | Infantil
+http://45.181.120.65:9087/play/019/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="",Cartoon Network | Infantil
 http://201.230.137.204:8000/play/a0ey/index.m3u8
-#EXTINF:-1,[Adult Swim] | LA
+
+#EXTINF:-1 tvg-logo=""  group-title="",[Adult Swim] | Panregional
 http://45.195.15.172:8000/play/a0ct/index.m3u8
-#EXTINF:-1 ,------- CHILE ------
+
+#EXTINF:-1 tvg-logo=""  group-title="",------- CHILE ------
 https://aaaaaaaaaaaaaaaaaaaaaaaa.com
-#EXTINF:-1, TV+ | CL
-http://138.36.253.13:8008/play/a00m/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/452_TVN.png" ,La Red | CHILE
-http://138.36.253.13:8008/play/a00l/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/452_TVN.png" ,TVN | CHILE
-http://179.57.171.184:8000/play/a008
-#EXTINF:-1, TV Chile | CL
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?NICOIPTV
-#EXTINF:-1, TVN 3 | CL
+
+#EXTINF:-1 tvg-logo=""  group-title="",TV+ | CL
+http://167.114.97.128/tv_mas/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/452_TVN.png"  group-title="",La Red | CHILE
+http://167.114.97.128/la_red/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/452_TVN.png"  group-title="",TVN | CHILE
+http://167.114.97.128/tvn/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="",TV Chile | CL
+http://normielista.xyz:8484/stream/normielista/tvchile/master.m3u8?u=normieandflax&p=44315aa0721f849b447a8c166d93e5f3e49f1f1735c26c1a3e9b6d0088828f41
+
+#EXTINF:-1 tvg-logo=""  group-title="",TVN 3 | CL
 http://179.57.171.184:8000/play/a00b
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngokD-ocCAmeUYc4oQPimBZ3vxVpUcSy68hquSnVA=s900-c-k-c0x00ffffff-no-rj" ,Chilevision | Chile
-http://179.57.171.184:8000/play/a00k
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" ,Mega
-http://179.57.171.184:8000/play/a00d
-#EXTINF:-1 tvg-logo="https://assets.radioagricultura.cl/2018/03/Nuevo-logo-Canal-13.jpg" ,Canal 13  | Chile
-http://179.57.171.184:8000/play/a00m
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/452_TVN.png" , Itv Patagonia | CL
-https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8?NICOIPTV
-#EXTINF:-1 ,24 horas | CL
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngokD-ocCAmeUYc4oQPimBZ3vxVpUcSy68hquSnVA=s900-c-k-c0x00ffffff-no-rj"  group-title="",Chilevision | Chile
+http://167.114.97.128/chv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png"  group-title="",Mega
+http://167.114.97.128/mega/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.radioagricultura.cl/2018/03/Nuevo-logo-Canal-13.jpg"  group-title="",Canal 13  | Chile
+http://167.114.97.128/canal_13/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/452_TVN.png"  group-title="",ITV Patagonia (Punta Arenas) | CL
+https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="",24 horas | CL
 http://179.57.171.184:8000/play/a00c
-#EXTINF:-1 ,------- Canales Nuevos ------
-#EXTINF:-1, Atacama TV | CL
-https://v2.tustreaming.cl/atacamatv/index.m3u8?IPTVNico
-#EXTINF:-1, U Chile TV | Chile
-https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?NICOIPTV
-#EXTINF:-1, Canal 9 Bío Bío TV
-https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?NICOIPTV
-#EXTINF:-1, REC TV | CL
-http://45.169.163.83:8000/play/a1ae
-#EXTINF:-1, TV Mas 2 | CL
-https://marine2.miplay.cl/tateti/playlist.m3u8?NicoIPTV
-#EXTINF:-1, TNT Sports | CL
-http://38.7.216.199/play/cwNfkA9FClNaqSltBxphXdbPWjHCkluiRPsw-RNchMDqmBCa_bL2KsOvct4WZdMg/m3u8
-#EXTINF:-1, ESPN | CL
+
+#EXTINF:-1 tvg-logo=""  group-title="",------- Canales Nuevos ------
+https://aaaaaaaaaaaaaaaaaaaaaaaa.com
+
+#EXTINF:-1 tvg-logo=""  group-title="",U Chile TV | Chile
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="",Canal 9 Bío Bío TV
+https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="",13Rec| CL
+http://167.114.97.128/13_rec/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="",TV Mas 2 | CL
+http://167.114.97.128/tv_mas_2/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="",TNT Sports | CL
+http://51.222.24.34:80/live/germanagurto332/germanagurto332/100
+
+#EXTINF:-1 tvg-logo=""  group-title="",ESPN | CL
 http://38.7.216.199/play/cwNfkA9FClNaqSltBxphXdbPWjHCkluiRPsw-RNchMBRIUuctc6H4v3_iFLsTXBO/m3u8
--------------------------- NUEVOS CANALES -----------------------------------------------
-#EXTINF:-1, TV40 | ARG
+
+#EXTINF:-1 tvg-logo=""  group-title="",TV40 | ARG
 https://acl-server.linky.com.co/hls/rtv40.m3u8
-#EXTINF:-1, VideoHit 
-https://streaming-cl.sh1ny.space/memfs/c3185a20-390f-4fe7-b063-fe5c3236e7fd.m3u8
-#EXTINF:-1, Latina | PE
-http://201.230.137.204:8000/play/a0h0/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="",VideoHit
+https://cdn.global.elektamedia.com/live/c7eds/VideoHit/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="",Latina | PE
+http://8.243.126.131:8000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="",Multivision | CU 
+http://hotelsevilla.xyz:8080/live/Ernesto0123/WEXEH/87082.ts
+
+#EXTINF:-1 tvg-logo=""  group-title="",ENT Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="",USA Network 
+http://167.114.97.128/usa/index.m3u8
