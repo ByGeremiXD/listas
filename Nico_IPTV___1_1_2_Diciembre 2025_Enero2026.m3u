@@ -1,0 +1,72 @@
+#EXTINF:-1 :-1 ,Nico IPTV
+#EXTINF:-1 ,------- CANALES -------
+https://nicoiptv.com/cl
+#EXTINF:-1 ,------- Infantiles --------
+#EXTINF:-1, NTV (Chile) | Infantil
+http://200.113.4.75:7210/play/a00o/index.m3u8
+#EXTINF:-1, Discovery Kids | CL
+http://201.230.137.204:8000/play/a0f3/index.m3u8
+#EXTINF:-1, Nickelodeon | LATAM
+http://201.230.137.204:8000/play/a0i8/index.m3u8
+#EXTINF:-1, Nick Jr. | LATAM
+http://201.230.137.204:8000/play/a0fz/index.m3u8
+#EXTINF:-1, Baby first | LATAM
+http://201.230.137.204:8000/play/a0f1/index.m3u8
+#EXTINF:-1, Canal Infantil | ARG
+http://181.78.7.90:12500/play/CANALINFANTIL/index.m3u8
+#EXTINF:-1, Disney Junior 
+http://186.148.195.206:8000/play/a061/index.m3u8
+#EXTINF:-1 ,Disney Channel | ARG/CL
+http://138.36.253.13:8008/play/a005/index.m3u8
+#EXTINF:-1 ,Tooncast
+http://45.5.117.99:8000/play/a03k/index.m3u8
+#EXTINF:-1 , Cartoonito | Infantil
+http://45.195.15.172:8000/play/a0cp/index.m3u8
+#EXTINF:-1 , Cartoon Network | Infantil
+http://201.230.137.204:8000/play/a0ey/index.m3u8
+#EXTINF:-1,[Adult Swim] | LA
+http://45.195.15.172:8000/play/a0ct/index.m3u8
+#EXTINF:-1 ,------- CHILE ------
+https://aaaaaaaaaaaaaaaaaaaaaaaa.com
+#EXTINF:-1, TV+ | CL
+http://138.36.253.13:8008/play/a00m/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/452_TVN.png" ,La Red | CHILE
+http://138.36.253.13:8008/play/a00l/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/452_TVN.png" ,TVN | CHILE
+http://179.57.171.184:8000/play/a008
+#EXTINF:-1, TV Chile | CL
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?NICOIPTV
+#EXTINF:-1, TVN 3 | CL
+http://179.57.171.184:8000/play/a00b
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngokD-ocCAmeUYc4oQPimBZ3vxVpUcSy68hquSnVA=s900-c-k-c0x00ffffff-no-rj" ,Chilevision | Chile
+http://179.57.171.184:8000/play/a00k
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" ,Mega
+http://179.57.171.184:8000/play/a00d
+#EXTINF:-1 tvg-logo="https://assets.radioagricultura.cl/2018/03/Nuevo-logo-Canal-13.jpg" ,Canal 13  | Chile
+http://179.57.171.184:8000/play/a00m
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/452_TVN.png" , Itv Patagonia | CL
+https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8?NICOIPTV
+#EXTINF:-1 ,24 horas | CL
+http://179.57.171.184:8000/play/a00c
+#EXTINF:-1 ,------- Canales Nuevos ------
+#EXTINF:-1, Atacama TV | CL
+https://v2.tustreaming.cl/atacamatv/index.m3u8?IPTVNico
+#EXTINF:-1, U Chile TV | Chile
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?NICOIPTV
+#EXTINF:-1, Canal 9 Bío Bío TV
+https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?NICOIPTV
+#EXTINF:-1, REC TV | CL
+http://45.169.163.83:8000/play/a1ae
+#EXTINF:-1, TV Mas 2 | CL
+https://marine2.miplay.cl/tateti/playlist.m3u8?NicoIPTV
+#EXTINF:-1, TNT Sports | CL
+http://38.7.216.199/play/cwNfkA9FClNaqSltBxphXdbPWjHCkluiRPsw-RNchMDqmBCa_bL2KsOvct4WZdMg/m3u8
+#EXTINF:-1, ESPN | CL
+http://38.7.216.199/play/cwNfkA9FClNaqSltBxphXdbPWjHCkluiRPsw-RNchMBRIUuctc6H4v3_iFLsTXBO/m3u8
+-------------------------- NUEVOS CANALES -----------------------------------------------
+#EXTINF:-1, TV40 | ARG
+https://acl-server.linky.com.co/hls/rtv40.m3u8
+#EXTINF:-1, VideoHit 
+https://streaming-cl.sh1ny.space/memfs/c3185a20-390f-4fe7-b063-fe5c3236e7fd.m3u8
+#EXTINF:-1, Latina | PE
+http://201.230.137.204:8000/play/a0h0/index.m3u8
