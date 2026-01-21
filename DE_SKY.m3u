@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Atlantic
+http://176.65.146.228:8005/play/a03l
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Cinema Action
+http://176.65.146.228:8005/play/a03g
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Cinema Classics
+http://176.65.146.228:8005/play/a03j
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Cinema Family
+http://176.65.146.228:8005/play/a03m
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Cinema Highlights
+http://176.65.146.228:8005/play/a03k
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Documentaries
+http://176.65.146.228:8005/play/a03o
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Krimi
+http://176.65.146.228:8005/play/a03f
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Nature
+http://176.65.146.228:8005/play/a03i
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky One
+http://176.65.146.228:8005/play/a03n
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky One
+http://176.65.146.228:8005/play/a035
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Replay
+http://176.65.146.228:8005/play/a03h
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Showcase
+http://176.65.146.228:8005/play/a02r
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Sport 1
+http://176.65.146.228:8005/play/a02t
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Sport 10
+http://176.65.146.228:8005/play/a02u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Sport 4
+http://176.65.146.228:8005/play/a02p
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Sport 5
+http://176.65.146.228:8005/play/a037
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Sport 6
+http://176.65.146.228:8005/play/a030
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Sport 7
+http://176.65.146.228:8005/play/a032
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Sport 8
+http://176.65.146.228:8005/play/a039
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Sport 9
+http://176.65.146.228:8005/play/a02n
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Sport Bundesliga 1
+http://176.65.146.228:8005/play/a02s
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Sport Bundesliga 10
+http://176.65.146.228:8005/play/a02v
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Sport Bundesliga 4
+http://176.65.146.228:8005/play/a02o
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Sport Bundesliga 5
+http://176.65.146.228:8005/play/a036
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Sport Bundesliga 6
+http://176.65.146.228:8005/play/a02z
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Sport Bundesliga 7
+http://176.65.146.228:8005/play/a031
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Sport Bundesliga 8
+http://176.65.146.228:8005/play/a038
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Sport Bundesliga 9
+http://176.65.146.228:8005/play/a02m
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Sport Bundesliga
+http://176.65.146.228:8005/play/a03a
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Sport F1
+http://176.65.146.228:8005/play/a033
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Sport Golf
+http://176.65.146.228:8005/play/a02y
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Sport Mix
+http://176.65.146.228:8005/play/a02l
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Sport News
+http://176.65.146.228:8005/play/a03b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Sport Premier League
+http://176.65.146.228:8005/play/a034
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Sport Tennis
+http://176.65.146.228:8005/play/a02x
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sky_logo_2020.svg/512px-Sky_logo_2020.svg.png",Sky Sport Top Event
+http://176.65.146.228:8005/play/a02q
