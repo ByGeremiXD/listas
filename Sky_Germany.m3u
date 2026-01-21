@@ -1,0 +1,108 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Sky_Atlantic_-_Logo_2020_%28TV_channel%29.svg/960px-Sky_Atlantic_-_Logo_2020_%28TV_channel%29.svg.png"  group-title="",Sky Atlantic
+http://176.65.146.228:8005/play/a03l
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Sky_Cinema_Action_2020.svg/revision/latest?cb=20210118213113"  group-title="",Sky Cinema Action
+http://176.65.146.228:8005/play/a03g
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Cinema_Classics_2020.svg/revision/latest?cb=20201029120727"  group-title="",Sky Cinema Classics
+http://176.65.146.228:8005/play/a03j
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Sky_Cinema_Family_2020.svg/revision/latest?cb=20210118213029"  group-title="",Sky Cinema Family
+http://176.65.146.228:8005/play/a03m
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Sky_Cinema_Highlights.svg/revision/latest?cb=20240220170019"  group-title="",Sky Cinema Highlights
+http://176.65.146.228:8005/play/a03k
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sky_Documentaries_2020.svg/revision/latest?cb=20200705155600"  group-title="",Sky Documentaries
+http://176.65.146.228:8005/play/a03o
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Sky_Krimi_2020.svg/revision/latest?cb=20201029122545"  group-title="",Sky Krimi
+http://176.65.146.228:8005/play/a03f
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Sky_Nature_2020.svg/revision/latest?cb=20210622162133"  group-title="",Sky Nature
+http://176.65.146.228:8005/play/a03i
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Sky_One_2020.svg/revision/latest?cb=20200917161500"  group-title="",Sky One
+http://176.65.146.228:8005/play/a03n
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Sky_One_2020.svg/revision/latest?cb=20200917161500"  group-title="",Sky One (repetido?)
+http://176.65.146.228:8005/play/a035
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/SKYREPLAY.svg/revision/latest?cb=20200825213340"  group-title="",Sky Replay
+http://176.65.146.228:8005/play/a03h
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sky_Showcase_2021.svg/revision/latest/scale-to-width-down/1000?cb=20210729112657"  group-title="",Sky Showcase
+http://176.65.146.228:8005/play/a02r
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Sky_Sport_1_logo_2020.svg/revision/latest?cb=20201029123651"  group-title="",Sky Sport 1
+http://176.65.146.228:8005/play/a02t
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Sky_Sport_10_2020.svg/revision/latest?cb=20220623071211"  group-title="",Sky Sport 10
+http://176.65.146.228:8005/play/a02u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sky_Sport_4_DE_Logo_2020.svg/1280px-Sky_Sport_4_DE_Logo_2020.svg.png"  group-title="",Sky Sport 4
+http://176.65.146.228:8005/play/a02p
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sky_Sport_5_DE_Logo_2020.svg/2560px-Sky_Sport_5_DE_Logo_2020.svg.png"  group-title="",Sky Sport 5
+http://176.65.146.228:8005/play/a037
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Sky_Sport_6_2020.svg/revision/latest?cb=20220623070929"  group-title="",Sky Sport 6
+http://176.65.146.228:8005/play/a030
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Sky_Sport_7_2020.svg/revision/latest?cb=20220623071003"  group-title="",Sky Sport 7
+http://176.65.146.228:8005/play/a032
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Sky_Sport_8_2020.svg/revision/latest?cb=20220623071055"  group-title="",Sky Sport 8
+http://176.65.146.228:8005/play/a039
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Sky_Sport_9_2020.svg/revision/latest?cb=20220623071133"  group-title="",Sky Sport 9
+http://176.65.146.228:8005/play/a02n
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sky_Sport_Bundesliga_1_2020.svg/revision/latest?cb=20210811144359"  group-title="",Sky Sport Bundesliga 1
+http://176.65.146.228:8005/play/a02s
+
+#EXTINF:-1 tvg-logo="https://de.wikipedia.org/wiki/Datei:Sky_Sport_Bundesliga_10_Logo_2020.png"  group-title="",Sky Sport Bundesliga 10
+http://176.65.146.228:8005/play/a02v
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/f/f6/Sky_Sport_Bundesliga_4_Logo_2020.png"  group-title="",Sky Sport Bundesliga 4
+http://176.65.146.228:8005/play/a02o
+
+#EXTINF:-1 tvg-logo="https://de.wikipedia.org/wiki/Datei:Sky_Sport_Bundesliga_5_Logo_2020.png"  group-title="",Sky Sport Bundesliga 5
+http://176.65.146.228:8005/play/a036
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/ad/Sky_Sport_Bundesliga_6_Logo_2020.png"  group-title="",Sky Sport Bundesliga 6
+http://176.65.146.228:8005/play/a02z
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/e/eb/Sky_Sport_Bundesliga_7_Logo_2020.png"  group-title="",Sky Sport Bundesliga 7
+http://176.65.146.228:8005/play/a031
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/4/4f/Sky_Sport_Bundesliga_8_Logo_2020.png"  group-title="",Sky Sport Bundesliga 8
+http://176.65.146.228:8005/play/a038
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/7/70/Sky_Sport_Bundesliga_9_Logo_2020.png"  group-title="",Sky Sport Bundesliga 9
+http://176.65.146.228:8005/play/a02m
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Sky_Sport_Bundesliga_2020.svg/revision/latest?cb=20201029130111"  group-title="",Sky Sport Bundesliga
+http://176.65.146.228:8005/play/a03a
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Sky_Sports_F1_2020.svg/revision/latest?cb=20200924152412"  group-title="",Sky Sport F1
+http://176.65.146.228:8005/play/a033
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sky_Sport_Golf_2022.svg/revision/latest?cb=20220623063805"  group-title="",Sky Sport Golf
+http://176.65.146.228:8005/play/a02y
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Sky_Sport_Mix_2022.svg/revision/latest?cb=20220623065002"  group-title="",Sky Sport Mix
+http://176.65.146.228:8005/play/a02l
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Sky_Sport_News_2020.svg/revision/latest?cb=20201029124150"  group-title="",Sky Sport News
+http://176.65.146.228:8005/play/a03b
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Sky_Sport_Premier_League_2022.svg/revision/latest?cb=20220623065459"  group-title="",Sky Sport Premier League
+http://176.65.146.228:8005/play/a034
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Sky_Sport_Tennis.svg/revision/latest?cb=20210626150201"  group-title="",Sky Sport Tennis
+http://176.65.146.228:8005/play/a02x
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Sky_Sport_Top_Event.svg/revision/latest?cb=20220712001842"  group-title="",Sky Sport Top Event
+http://176.65.146.228:8005/play/a02q
