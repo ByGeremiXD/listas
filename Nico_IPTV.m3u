@@ -1,117 +1,585 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo=""  group-title="",Nico IPTV
+#EXTINF:-1 tvg-logo=""  group-title="- Bienvenidos a NicoIPTV -",Nico IPTV
 https://nicoiptv.com/cl
 
-#EXTINF:-1 tvg-logo=""  group-title="",------- Infantiles --------
-http://200.113.4.75:7210/play/a00o/index.m3u8
+#EXTINF:-1 tvg-logo=""  group-title="- Estilo de Vida -",-------Estilo de Vida-------
+http://nicoplaylist.com/estilodevida.html
 
-#EXTINF:-1 tvg-logo=""  group-title="",Discovery Kids | CL
+#EXTINF:-1 tvg-logo=""  group-title="- Estilo de Vida -",Discovery H&H
+http://45.232.210.1:18000/play/a09z/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Estilo de Vida -",TLC
+http://8.243.126.131:8000/play/a04t/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Estilo de Vida -",El Gourmet
+http://190.83.9.222:8000/play/ca073/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Estilo de Vida -",Food Network
+http://45.166.72.87:8000/play/a0az/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Estilo de Vida -",Univision
+http://190.60.42.86:8000/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Estilo de Vida -",Hola TV
+http://190.60.41.190:45000/play/a07k/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Estilo de Vida -",Azteca Internacional
+http://181.78.21.174:8015/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Estilo de Vida -",Tevex
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Internacionales -",-------Internacionales--------
+http://nicoplaylist.com/internacionales.html
+
+#EXTINF:-1 tvg-logo=""  group-title="- Internacionales -",El Canal de las Estrellas
+http://207.248.2.105:3200/play/a138/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Internacionales -",Antena 3 INT.
+http://167.114.97.128/antena3_int/video.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Internacionales -",DW
+http://181.118.156.46:8000/play/a03k/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Internacionales -",El Trece INT.
+http://179.57.171.189:8000/play/a03e/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Internacionales -",TV Publica
+http://45.236.151.86:3232/play/a0rt/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Internacionales -",Telefe
+http://190.95.60.228:8400/play/a124
+
+#EXTINF:-1 tvg-logo=""  group-title="- Miscelaneos -",-------Miscelaneos--------
+http://nicoplaylist.com/miscelaneos.html
+
+#EXTINF:-1 tvg-logo=""  group-title="- Miscelaneos -",Novelisima
+http://190.105.128.198:5800/play/a07v/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Miscelaneos -",Ve Plus
+http://38.199.6.1:17001/play/a0um/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Miscelaneos -",Mega 2 | CL
+http://38.250.127.17:9800/play/a0ai/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Miscelaneos -",TLNovelas
+http://205.235.6.29:8000/play/a0vb/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Miscelaneos -",Comedy Central
+http://8.243.126.131:8000/play/a060/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Miscelaneos -",TNT Novelas
+http://181.78.73.237:9023/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Miscelaneos -",TVR
+http://167.114.97.128/tvr/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Miscelaneos -",Corazon
+http://38.137.192.250:8000/play/ssee2
+
+#EXTINF:-1 tvg-logo=""  group-title="- Miscelaneos -",Kanal D
+http://normielista.xyz:8484/stream/normielista/kanalddrama/master.m3u8?u=normieandflax&p=44315aa0721f849b447a8c166d93e5f3e49f1f1735c26c1a3e9b6d0088828f41
+
+#EXTINF:-1 tvg-logo=""  group-title="- Musica -",-------Musica--------
+http://nicoplaylist.com/musica.html
+
+#EXTINF:-1 tvg-logo=""  group-title="- Musica -",Telehit
+http://168.232.168.242:9999/play/a085/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Musica -",Telehit Musica
+http://167.114.97.128/telehit_musica/video.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Musica -",HTV
+http://177.74.205.189:8000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Musica -",Bandamax
+http://168.232.168.242:9999/play/a04i/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Musica -",MTV
+http://207.248.2.105:3200/play/a0u1/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Musica -",Clic
+http://138.94.253.182:12121/play/a04w/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Musica -",Quiero Musica
+http://201.217.246.48:9000/play/a06s/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Noticias -",-------Noticias--------
+http://nicoplaylist.com/noticias.html
+
+#EXTINF:-1 tvg-logo=""  group-title="- Noticias -",MegaNoticias
+http://167.114.97.128/meganoticias/video.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Noticias -",CHV Noticias
+http://167.114.97.128/chv_noticias/video.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Noticias -",CNN Chile
+http://normielista.xyz:8484/stream/normielista/cnnchile/master.m3u8?u=normieandflax&p=44315aa0721f849b447a8c166d93e5f3e49f1f1735c26c1a3e9b6d0088828f41
+
+#EXTINF:-1 tvg-logo=""  group-title="- Noticias -",CNN en Español
+http://181.224.255.214:8000/play/a0q1/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Noticias -",CNN INT.
+http://190.95.60.228:8400/play/a17e
+
+#EXTINF:-1 tvg-logo=""  group-title="- Noticias -",T13 en vivo
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?auth-token=&platform=
+
+#EXTINF:-1 tvg-logo=""  group-title="- Noticias -",Bio Bio TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?did=b214450135946973ae78035ea
+
+#EXTINF:-1 tvg-logo=""  group-title="- Noticias -",CDTV
+https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Noticias -",TV Senado
+http://190.95.60.228:8400/play/a122
+
+#EXTINF:-1 tvg-logo=""  group-title="- Noticias -",Canal 26
+http://181.78.27.128:12543/play/a01u/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Noticias -",UCL
+http://179.57.171.184:8000/play/a01j
+
+#EXTINF:-1 tvg-logo=""  group-title="- Noticias -",France 24
+http://200.229.147.142:8000/play/a06k/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Noticias -",RT en Español
+http://217.26.190.76:8888/play/a0js/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Noticias -",CGTN
+http://181.78.14.26:4000/play/a03q/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Noticias -",Fox News
+http://190.95.60.228:8400/play/a10s
+
+#EXTINF:-1 tvg-logo=""  group-title="- Cultural -",-------Cultural--------
+http://nicoplaylist.com/cultural.html
+
+#EXTINF:-1 tvg-logo=""  group-title="- Cultural -",History 2
+http://190.60.42.86:8000/play/a022/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Cultural -",Discovery 
+http://38.250.125.162:9800/play/098/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Cultural -",Discovery ID
+http://45.181.120.65:9087/play/037/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Cultural -",Love Nature
+http://181.65.207.62:8000/play/a00l
+
+#EXTINF:-1 tvg-logo=""  group-title="- Cultural -",Animal Planet
+http://207.248.2.105:3200/play/a13d/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Cultural -",Historry Channel
+http://207.248.2.105:3200/play/a13e/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Cultural -",Discovery Theater
+http://38.250.125.162:9800/play/099/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Cultural -",Discovery World
+http://38.250.125.162:9800/play/100/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Cultural -",HGTV
+http://8.243.126.131:8000/play/a056/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Cultural -",Discovery Science
+http://8.243.126.131:8000/play/a056/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Cultural -",DOCU
+http://167.114.97.128/docu/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Cultural -",ARTV
+http://167.114.97.128/artv/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Cultural -",13C | CL
+http://ats-edge-ra-1.live.clarovtrcdn.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",-------Deportes--------
+http://nicoplaylist.com/deportes.html
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",ESPN
+http://167.114.97.128/espn_cl/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",ESPN 2
+http://167.114.97.128/espn2_cl/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",ESPN 3
+http://167.114.97.128/espn3_sur/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",ESPN 4
+http://167.114.97.128/espn4_sur/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",ESPN 5
+http://normielista.xyz:8484/stream/normielista/espn5cl/master.m3u8?u=normieandflax&p=44315aa0721f849b447a8c166d93e5f3e49f1f1735c26c1a3e9b6d0088828f41
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",ESPN 6
+http://167.114.97.128/espn6/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",ESPN 7
+http://167.114.97.128/espn7/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",ESPN Premium 
+http://167.114.97.128/espn_premium_cl/video.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",ESPN Deportes
+http://167.114.97.128/espn_deportes/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",DSports
+http://138.204.12.14:40000/play/a0at/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",DSports 2
+http://138.204.12.14:40000/play/a0l5/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",DSports +
+http://217.26.190.76:8888/play/a0jb/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",TNT Sports Premium | CL
+http://167.114.97.128/tnt_sports_premium/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",TNT Sports Basico | CL
+http://192.187.102.26:80/playlistfinder/playlistfinder/15.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",Tyc Sports | LATAM
+http://45.68.35.219:9999/play/a00g
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",Claro Sports 
+http://181.78.50.191:7225/play/a011
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",Claro Sports 2
+http://181.78.50.191:7225/play/a012
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",Fox Sports | AR
+http://167.114.97.128/fox_sports_ar/video.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",Fox Sports 2 | AR
+http://167.114.97.128/fox_sports_2_ar/video.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",Fox Sports 3 | AR
+http://normielista.xyz:8484/stream/normielista/foxsports3ar/master.m3u8?u=normieandflax&p=44315aa0721f849b447a8c166d93e5f3e49f1f1735c26c1a3e9b6d0088828f41
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",Fox | MX
+http://normielista.xyz:8484/stream/normielista/foxonemx1/master.m3u8?u=normieandflax&p=44315aa0721f849b447a8c166d93e5f3e49f1f1735c26c1a3e9b6d0088828f41
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",Fox Sports Premium | MX
+http://normielista.xyz:8484/stream/normielista/foxonemx1/master.m3u8?u=normieandflax&p=44315aa0721f849b447a8c166d93e5f3e49f1f1735c26c1a3e9b6d0088828f41
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",Teletrak TV
+http://ats-edge-ra-1.live.clarovtrcdn.vtrplay.com/teletrakhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",CDO
+http://45.4.3.177:9999/play/a0fw
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",Golf Channel
+http://45.5.117.99:8000/play/a0h1/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",Sky Sports La Liga 
+http://normielista.xyz:8484/stream/normielista/skysportslaliga/master.m3u8?u=normieandflax&p=44315aa0721f849b447a8c166d93e5f3e49f1f1735c26c1a3e9b6d0088828f41
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",Sky Sports Bundesliga
+http://normielista.xyz:8484/stream/normielista/skysportsbundesliga/master.m3u8?u=normieandflax&p=44315aa0721f849b447a8c166d93e5f3e49f1f1735c26c1a3e9b6d0088828f41
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",Discovery Turbo 
+http://181.78.17.228:8000/play/a03q/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",TNT Sports | MX
+http://167.114.97.128/tnt_mx/video.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Deportes -",TUDN | US
+http://190.83.9.222:8000/play/ca099/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",-------Peliculas y Series-------
+http://nicoplaylist.com/pelisyseries.html
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",TNT
+http://167.114.97.128/tnt/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Space
+http://38.250.125.162:9800/play/070/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",TNT Series
+http://167.114.97.128/tnt_series/video.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Sony Channel
+http://207.248.2.105:3200/play/a13h/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",AXN
+http://207.248.2.105:3200/play/a13i/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",TCM
+http://177.74.205.189:8000/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Golden Plus
+http://45.181.123.123:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Sony Movies
+http://181.78.14.26:4000/play/a077/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Cinema
+http://181.65.207.62:8000/play/a008
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",A3Series
+http://38.250.125.162:9800/play/061/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Warner Channel
+http://38.250.125.162:9800/play/065/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",USA Network
+http://167.114.97.128/usa/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",A&E
+http://207.248.2.105:3200/play/a13l/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",TNT Series
+http://167.114.97.128/tnt_series/video.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",AMC
+http://207.248.2.105:3200/play/a0k4/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Flim & Arts
+http://201.217.246.48:9000/play/a075/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Studio Universal
+http://207.248.2.105:3200/play/a0q7/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Golden Edge
+http://181.78.8.199:8000/play/a0ab/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",AMC Series
+http://131.161.83.249:8031/play/a14j
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Golden Premier
+http://45.181.123.123:8000/play/a011/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Europa Europa
+http://190.104.67.100:234/play/a07t/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",A3Cine
+https://ats-edge-inde-8.live.clarovtrcdn.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",DHE
+http://45.166.72.87:8000/play/a0q7/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Lifetime
+http://45.166.72.87:8000/play/a0q7/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Golden Premier 2
+http://38.252.215.195:8889/play/a04w/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Eurochannel
+http://179.60.224.196:8000/play/a0ge/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Multipremier
+http://45.173.201.51:4000/play/a0nm/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Star Channel
+http://207.248.2.105:3200/play/a13h/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Cinecanal
+http://167.114.97.128/cinecanal/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Cinemax
+http://167.114.97.128/cinemax/video.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Universal TV
+http://normielista.xyz:8484/stream/normielista/universaltv/master.m3u8?u=normieandflax&p=44315aa0721f849b447a8c166d93e5f3e49f1f1735c26c1a3e9b6d0088828f41
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",TNT
+http://167.114.97.128/tnt/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Cinema
+http://181.65.207.62:8000/play/a008
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Cine Latino
+http://45.5.117.99:8000/play/a0ik/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Cine Familiar
+http://181.114.232.86:8001/play/a0jx/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Cine Hispano
+http://181.114.232.86:8001/play/a0jy/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Cine Premium
+http://181.114.232.86:8001/play/a0jz/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",HBO | Este
+http://207.248.2.105:3200/play/a0uv/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",HBO | Oeste
+http://45.5.117.99:8000/play/a0l2/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",HBO 2 | Oeste
+http://45.5.117.99:8000/play/a00c/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",HBO Family 
+http://207.248.2.105:3200/play/a13a/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",HBO +
+http://45.5.117.99:8000/play/a0l4/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",HBO Xtreme
+http://207.248.2.105:3200/play/a13b/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",HBO Signature
+http://ats-edge-ra-1.live.clarovtrcdn.vtrplay.com/hbosignaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",HBO Pop
+http://38.250.125.162:9800/play/093/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",HBO Mundi
+http://ats-edge-ra-1.live.clarovtrcdn.vtrplay.com/hbomundihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Universal Premiere | Este
+http://190.115.15.49:8000/play/a0sj/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Universal Premiere | Oeste
+http://190.115.15.49:8000/play/a0sk/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Universal Crime
+http://167.114.97.128/universal_crime_este/video.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Universal Comedy
+http://167.114.97.128/universal_comedy_este/video.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Universal Cinema 
+http://167.114.97.128/universal_cinema_este/video.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Universal Reality
+http://167.114.97.128/universal_reality_este/video.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Peliculas y Series -",Cinema Platino
+http://186.145.137.48:8000/play/CINEMA_PLATINO
+
+#EXTINF:-1 tvg-logo=""  group-title="- Religiosos -",-------Religiosos--------
+http://nicoplaylist.com/religiosos.html
+
+#EXTINF:-1 tvg-logo=""  group-title="- Religiosos -",Gracia TV
+http://38.250.125.162:9800/play/031/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Religiosos -",Nuevo Tiempo
+http://190.7.19.197:232/play/a01x/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Religiosos -",EWTN
+http://181.118.156.46:8000/play/a04e/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Infantiles -",-------Infantiles--------
+http://nicoplaylist.com/infantiles.html
+
+#EXTINF:-1 tvg-logo=""  group-title="- Infantiles -",Discovery Kids | CL
 http://201.230.137.204:8000/play/a0f3/index.m3u8
 
-#EXTINF:-1 tvg-logo=""  group-title="",Nickelodeon | LATAM
+#EXTINF:-1 tvg-logo=""  group-title="- Infantiles -",Nickelodeon | LATAM
 http://201.230.137.204:8000/play/a0i8/index.m3u8
 
-#EXTINF:-1 tvg-logo=""  group-title="",Nick Jr. | LATAM
+#EXTINF:-1 tvg-logo=""  group-title="- Infantiles -",Nick Jr. | LATAM
 http://201.230.137.204:8000/play/a0fz/index.m3u8
 
-#EXTINF:-1 tvg-logo=""  group-title="",Baby Fiirst | LATAM
+#EXTINF:-1 tvg-logo=""  group-title="- Infantiles -",Baby Fiirst | LATAM
 http://201.230.137.204:8000/play/a0f1/index.m3u8
 
-#EXTINF:-1 tvg-logo=""  group-title="",Canal Infantil | ARG
+#EXTINF:-1 tvg-logo=""  group-title="- Infantiles -",Canal Infantil | LATAM
 http://181.78.7.90:12500/play/CANALINFANTIL/index.m3u8
 
-#EXTINF:-1 tvg-logo=""  group-title="",Disney Junior
-http://179.51.169.254:7000/play/a018
+#EXTINF:-1 tvg-logo=""  group-title="- Infantiles -",Disney Junior
+http://103.23.62.238:8000/play/a058
 
-#EXTINF:-1 tvg-logo=""  group-title="",Disney Channel | ARG/CL
+#EXTINF:-1 tvg-logo=""  group-title="- Infantiles -",Cartoonito | Infantil
+http://181.78.8.199:8000/play/a09f/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Infantiles -",Disney Channel | ARG/CL
 http://152.230.229.67:9990/play/a0jg/index.m3u8
 
-#EXTINF:-1 tvg-logo=""  group-title="",Kidoo | Infantil
+#EXTINF:-1 tvg-logo=""  group-title="- Infantiles -",NTV | CL
+http://167.114.97.128/ntv/video.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Infantiles -",Kidoo | Infantil
 http://38.252.215.195:8889/play/a00l/index.m3u8
 
-#EXTINF:-1 tvg-logo=""  group-title="",Bitme | Infantil
+#EXTINF:-1 tvg-logo=""  group-title="- Infantiles -",Plim Plim | Infantil
+http://217.26.190.76:8888/play/a0j3/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Infantiles -",Dreamworks Channel | Infantil
+http://190.102.139.189:8000/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Infantiles -",Bitme | Infantil
 http://181.65.207.62:8000/play/a00g
 
-#EXTINF:-1 tvg-logo=""  group-title="",Tooncast
+#EXTINF:-1 tvg-logo=""  group-title="- Infantiles -",Clan | ES
+http://200.229.147.142:8000/play/a07g/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Infantiles -",Tooncast | Infantil
 http://45.5.117.99:8000/play/a03k/index.m3u8
 
-#EXTINF:-1 tvg-logo=""  group-title="",Cartoonito | Infantil
-http://45.181.120.65:9087/play/019/index.m3u8
+#EXTINF:-1 tvg-logo=""  group-title="- Infantiles -",ZooMoo (SAP) | Infantil
+http://181.78.208.227:8006/play/a04q/index.m3u8
 
-#EXTINF:-1 tvg-logo=""  group-title="",Cartoon Network | Infantil
+#EXTINF:-1 tvg-logo=""  group-title="- Infantiles -",Cartoon Network | Infantil
 http://201.230.137.204:8000/play/a0ey/index.m3u8
 
-#EXTINF:-1 tvg-logo=""  group-title="",[Adult Swim] | Panregional
-http://45.195.15.172:8000/play/a0ct/index.m3u8
+#EXTINF:-1 tvg-logo=""  group-title="- Infantiles -",[Adult Swim] | Panregional
+http://201.217.246.48:9000/play/a08d/index.m3u8
 
-#EXTINF:-1 tvg-logo=""  group-title="",------- CHILE ------
-https://aaaaaaaaaaaaaaaaaaaaaaaa.com
+#EXTINF:-1 tvg-logo=""  group-title="- Chile -",-------CHILE ------
+http://nicoplaylist.com/chile.html
 
-#EXTINF:-1 tvg-logo=""  group-title="",TV+ | CL
+#EXTINF:-1 tvg-logo=""  group-title="- Chile -",TV+ | CL
 http://167.114.97.128/tv_mas/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/452_TVN.png"  group-title="",La Red | CHILE
+#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjA2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png"  group-title="- Chile -",La Red | CL
 http://167.114.97.128/la_red/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/452_TVN.png"  group-title="",TVN | CHILE
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/452_TVN.png"  group-title="- Chile -",TVN | CL
 http://167.114.97.128/tvn/index.m3u8
 
-#EXTINF:-1 tvg-logo=""  group-title="",TV Chile | CL
+#EXTINF:-1 tvg-logo=""  group-title="- Chile -",TV Chile | CL
 http://normielista.xyz:8484/stream/normielista/tvchile/master.m3u8?u=normieandflax&p=44315aa0721f849b447a8c166d93e5f3e49f1f1735c26c1a3e9b6d0088828f41
 
-#EXTINF:-1 tvg-logo=""  group-title="",TVN 3 | CL
+#EXTINF:-1 tvg-logo=""  group-title="- Chile -",TVN 3 | CL
 http://179.57.171.184:8000/play/a00b
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngokD-ocCAmeUYc4oQPimBZ3vxVpUcSy68hquSnVA=s900-c-k-c0x00ffffff-no-rj"  group-title="",Chilevision | Chile
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngokD-ocCAmeUYc4oQPimBZ3vxVpUcSy68hquSnVA=s900-c-k-c0x00ffffff-no-rj"  group-title="- Chile -",Chilevision | CL
 http://167.114.97.128/chv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png"  group-title="",Mega
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png"  group-title="- Chile -",Mega | CL
 http://167.114.97.128/mega/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.radioagricultura.cl/2018/03/Nuevo-logo-Canal-13.jpg"  group-title="",Canal 13  | Chile
+#EXTINF:-1 tvg-logo="https://assets.radioagricultura.cl/2018/03/Nuevo-logo-Canal-13.jpg"  group-title="- Chile -",Canal 13  | CL
 http://167.114.97.128/canal_13/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/452_TVN.png"  group-title="",ITV Patagonia (Punta Arenas) | CL
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/452_TVN.png"  group-title="- Chile -",ITV Patagonia (Punta Arenas) | CL
 https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""  group-title="",24 horas | CL
+#EXTINF:-1 tvg-logo=""  group-title="- Chile -",24 horas | CL
 http://179.57.171.184:8000/play/a00c
 
-#EXTINF:-1 tvg-logo=""  group-title="",------- Canales Nuevos ------
-https://aaaaaaaaaaaaaaaaaaaaaaaa.com
+#EXTINF:-1 tvg-logo=""  group-title="- Chile -",TVU (Concepcion) | CL
+https://unlimited1-us.dps.live/tvu/tvu.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""  group-title="",U Chile TV | Chile
-https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=""  group-title="- Chile -",UCV | CL
+http://167.114.97.128/ucv_tv/index.m3u8
 
-#EXTINF:-1 tvg-logo=""  group-title="",Canal 9 Bío Bío TV
-https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=""  group-title="- Chile -",U Chile TV | Chile
+https://pantera1-100gb-cl-movistar.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""  group-title="",13Rec| CL
+#EXTINF:-1 tvg-logo=""  group-title="- Chile -",Canal 9 Bío Bío | CL
+https://pantera1-100gb-cl-movistar.dps.live/c9/c9.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="- Chile -",13 Rec | CL
 http://167.114.97.128/13_rec/index.m3u8
 
-#EXTINF:-1 tvg-logo=""  group-title="",TV Mas 2 | CL
+#EXTINF:-1 tvg-logo=""  group-title="- Chile -",CHV de Culto
+http://normielista.xyz:8484/stream/normielista/chvdeculto/master.m3u8?u=normieandflax&p=44315aa0721f849b447a8c166d93e5f3e49f1f1735c26c1a3e9b6d0088828f41
+
+#EXTINF:-1 tvg-logo=""  group-title="- Chile -",TV Mas 2 | CL
 http://167.114.97.128/tv_mas_2/index.m3u8
 
-#EXTINF:-1 tvg-logo=""  group-title="",TNT Sports | CL
-http://51.222.24.34:80/live/germanagurto332/germanagurto332/100
+#EXTINF:-1 tvg-logo=""  group-title="- Canales nuevos -",-------Canales nuevos--------
+http://nicoplaylist.com/canalesnuevos.html
 
-#EXTINF:-1 tvg-logo=""  group-title="",ESPN | CL
-http://38.7.216.199/play/cwNfkA9FClNaqSltBxphXdbPWjHCkluiRPsw-RNchMBRIUuctc6H4v3_iFLsTXBO/m3u8
-
-#EXTINF:-1 tvg-logo=""  group-title="",TV40 | ARG
-https://acl-server.linky.com.co/hls/rtv40.m3u8
-
-#EXTINF:-1 tvg-logo=""  group-title="",VideoHit
-https://cdn.global.elektamedia.com/live/c7eds/VideoHit/SA_LIVE_hls_enc/master.m3u8
-
-#EXTINF:-1 tvg-logo=""  group-title="",Latina | PE
+#EXTINF:-1 tvg-logo=""  group-title="- Canales nuevos -",Latina | PE
 http://8.243.126.131:8000/play/a001/index.m3u8
 
-#EXTINF:-1 tvg-logo=""  group-title="",Multivision | CU 
+#EXTINF:-1 tvg-logo=""  group-title="- Canales nuevos -",Multivision | CU
 http://hotelsevilla.xyz:8080/live/Ernesto0123/WEXEH/87082.ts
 
-#EXTINF:-1 tvg-logo=""  group-title="",ENT Family
+#EXTINF:-1 tvg-logo=""  group-title="- Canales nuevos -",ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
-
-#EXTINF:-1 tvg-logo=""  group-title="",USA Network 
-http://167.114.97.128/usa/index.m3u8
